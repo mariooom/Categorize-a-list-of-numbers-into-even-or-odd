@@ -8,5 +8,7 @@ Categorize a list of numbers into even or odd using for loop and switch case
 5. create two empty lists to add the numbers to it after categorizing.
 
 #Output:
+
+
 ![image](https://github.com/user-attachments/assets/01756e21-1444-4333-b9ed-4c19f038f8b1)
  
