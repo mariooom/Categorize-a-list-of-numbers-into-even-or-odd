@@ -1,5 +1,5 @@
 void main() {
-  List<int> numbers = [4,3,6,15,10,14,13,5,26,27]; //list of inger numbers
+  List<int> numbers = [4,3,6,15,10,14,13,5,26,27]; //list of int numbers
   //create two empty lists to store even and odd numbers
   List<int> evenNumbers = [];  //to store even numbers
   List<int> oddNumbers = [];  //to store odd numbers
