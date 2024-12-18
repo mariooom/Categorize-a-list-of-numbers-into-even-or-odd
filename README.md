@@ -10,5 +10,6 @@ Categorize a list of numbers into even or odd using for loop and switch case
 # Output:
 
 
-![image](https://github.com/user-attachments/assets/01756e21-1444-4333-b9ed-4c19f038f8b1)
+![image](https://github.com/user-attachments/assets/61c1ea9e-c04c-46fc-876c-44ae18e73f78)
+
  
